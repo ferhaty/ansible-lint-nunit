@@ -6,7 +6,7 @@ import xml.etree.cElementTree as ET
 import lxml.etree as LET
 
 
-__version__ = "0.4"
+__version__ = "0.5"
 
 
 def version():

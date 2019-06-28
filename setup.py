@@ -9,7 +9,7 @@ setup(
     packages=['bootstrap'],
     version=version,
     description='ansible-lint to NUnit converter.',
-    author='wasil',
+    author='ferhaty',
     author_email='ferhat.yildiz@turingts.com',
     url='https://github.com/ferhaty/ansible-lint-nunit',
     download_url='https://github.com/ferhaty/ansible-lint-nunit/archive/%s.tar.gz' % (version),
